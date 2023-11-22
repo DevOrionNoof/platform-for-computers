@@ -1,0 +1,75 @@
+/* This file is created by Jasmin Kaur and Noof Al shehhi for the purpose of group Project */
+
+/*#pg-login{*/
+/*		display: flex;*/
+/*	    flex-direction: column;*/
+/*	    width: 100px;*/
+/*	    min-width: 500px;*/
+/*	    margin: 3em auto;*/
+/*}*/
+/*.btn-secondary{*/
+/*	background-color: black;*/
+
+/*}*/
+/*.start-form{*/
+/*	margin-bottom: 30px;*/
+/*}*/
+/*#fileToUpload{*/
+/*	margin-bottom: 20px;*/
+
+/*}*/
+
+/*.upload_form{*/
+/*	display: flex;*/
+/*	    flex-direction: column;*/
+/*	    width: 100px;*/
+/*	    min-width: 500px;*/
+/*	    margin: 3em auto;*/
+/*	    padding-top: 30px;*/
+
+/*}*/
+/*.upload-button{*/
+/*	background-color: black;*/
+/*	color: white;*/
+/*}*/
+/*.contact-form{*/
+/*	display: flex;*/
+/*	    flex-direction: column;*/
+/*	    width: 100px;*/
+/*	    min-width: 500px;*/
+/*	    margin: 3em auto;*/
+
+/*}*/
+/*.contact-heading{*/
+/*		margin-bottom: 30px;*/
+
+/*}*/
+/*#send-contact, #clear-contents, #input-submit-form, #input-clear{*/
+/*	background-color: black;*/
+/*	color: white;*/
+/*}*/
+/*#footer{*/
+/*	background-color: black;*/
+/*}*/
+/*#link, #footerpara{*/
+/*	color: white;*/
+/*}*/
+/*.container{*/
+/*	background-color: #D8D8D8;*/
+/*}*/
+
+footer{
+    bottom:0;
+    width:100%;
+    height:100px;
+    background-color: black;
+    color: white;
+}
+
+/*form {*/
+/*    width: 60%;*/
+/*}*/
+
+#error-message {
+    color: red;
+}
