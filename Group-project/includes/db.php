@@ -1,7 +1,5 @@
 <?php
-    /*
-     * This file is created by Guanchen Zhu for the work on group Assignment.
-     */
+   
 
     $host = "db.cs.dal.ca";
     $username = "shehhi";

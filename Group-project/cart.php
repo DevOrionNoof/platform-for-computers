@@ -1,7 +1,4 @@
 <?php
-/*
- * This file is created by Guanchen Zhu for the work on group Assignment.
- */
     require_once "includes/header.php";
     // permission only allowed for costumers or admin
     if (isset($_SESSION['username']) && ($_SESSION['usertype'] == 0 || $_SESSION['usertype'] == 2)) {

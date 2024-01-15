@@ -1,7 +1,5 @@
 <?php
-/*
- * This file is edited by Guanchen Zhu for the work on Group Assignment.
- */
+
 require_once "includes/header.php";
 
 if (isset($_SESSION['username'])) {

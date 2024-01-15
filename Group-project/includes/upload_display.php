@@ -1,9 +1,7 @@
 <div class="container marketing" id="list-container">
 
     <?php
-    /*
-    * This file is created by Guanchen Zhu for the work on group Assignment.
-    */
+
 
     // index for count how many product in
     $count = 0;

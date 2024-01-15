@@ -1,7 +1,5 @@
 <?php
-/*
- * This file is created by Guanchen Zhu for the work on group Assignment.
- */
+
 require_once "includes/header.php";
 require_once "includes/functions.php";
 

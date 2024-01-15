@@ -1,7 +1,5 @@
 <?php
-/*
- * This file is created by Guanchen Zhu for the work on group Assignment.
- */
+
 
 session_start();
 require_once "db.php";

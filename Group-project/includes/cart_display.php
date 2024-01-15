@@ -1,9 +1,6 @@
 <div class="container marketing" id="list-container">
 
     <?php
-    /*
-    * This file is created by Guanchen Zhu for the work on group Assignment.
-    */
     // initialize two variables for further counting
     $count = 0;
     $total_price = 0;
